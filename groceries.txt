@@ -2,3 +2,5 @@ Rice
 Vegetables
 Oranges
 Grape
+Cabbage
+Beans
